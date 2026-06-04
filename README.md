@@ -24,15 +24,15 @@ This project was built as part of my **frontend development portfolio** to demon
 - Work with **Tailwind CSS** for a fully custom, responsive design system
 - Structure a real-world project with **React Router** for client-side navigation
 
-> 💼 **Built by:** [Your Name]
-> 🔗 **Portfolio:** [your-portfolio-link.com]
-> 📧 **Contact:** [your@email.com]
+> 💼 **Built by:** Rama Raditya
+> 🔗 **Portfolio:** [https://ramaditya19.github.io/rama-raditya]
+> 📧 **Contact:** [[EMAIL_ADDRESS]](mailto:[ramaraditya4371@gmail.com])
 
 ---
 
 ## 🖥️ Live Demo
 
-> 🚀 [View Live Demo](https://your-demo-link.vercel.app) *(deploy ke Vercel/Netlify untuk mengaktifkan link ini)*
+> 🚀 [View Live Demo](https://industrial-compro.vercel.app/)
 
 ---
 
@@ -193,6 +193,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **⭐ If you find this project helpful or inspiring, please consider giving it a star!**
 
-Made with ❤️ as a portfolio project by **[Your Name]**
+Made with ❤️ as a portfolio project by Rama Raditya
 
 </div>
