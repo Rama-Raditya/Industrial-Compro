@@ -112,7 +112,7 @@ src/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/rama-raditya/nusantara-industrial.git
+git clone https://github.com/rama-raditya/Industrial-Compro.git
 
 # 2. Navigate into the project
 cd nusantara-industrial
